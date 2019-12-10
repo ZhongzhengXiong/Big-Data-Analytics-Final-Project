@@ -7,6 +7,6 @@ This is the final project of Big Data Analytics. We have decided to choose a kag
 * Cheng Yijing
 * Xiong Zhongzheng
 * Yang Boyu
-* Zhang Yiten
+* Zhang Yiteng
 * Zhu Qi
 * Zhao Wangrong
